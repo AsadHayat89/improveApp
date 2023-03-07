@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "325868607837",
+    "project_id": "improvescrapeapp-80a4e",
+    "storage_bucket": "improvescrapeapp-80a4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325868607837:android:591d81696fb38017fc70b4",
+        "android_client_info": {
+          "package_name": "com.example.improvescap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325868607837-hv57likcm1l3ie3ft5prvl40amjen78p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.improvescap",
+            "certificate_hash": "bec506ced681c723ef640212d085d277e1a254b0"
+          }
+        },
+        {
+          "client_id": "325868607837-kvsekggpe6h31fbha7hfe93io62itjt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoMyd3mF_Dy0Or-P7a7X0xGZ4z2Eq1s4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325868607837-g317r8om1sejbvfmeeqjtmqmvogk01dp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
